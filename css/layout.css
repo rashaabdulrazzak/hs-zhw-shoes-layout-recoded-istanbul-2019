@@ -46,7 +46,7 @@ section{
 .col-3{
   
 }
-[col*="col-"]{
+[class*="col-"]{
   margin-right: 2%;
 }
 .first{
